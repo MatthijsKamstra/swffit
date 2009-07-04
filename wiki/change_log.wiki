@@ -4,7 +4,7 @@
 
 == swffit 2.3 (06/15/2009) ==
 
-  * added new methods 'showScrollH()' and 'showScrollV()'
+  * added new methods `showScrollH()` and `showScrollV()`
   * changed minimum size to optional
   * fixed bug with swfobject (2.2) and static publishing
   * improved source code comments
