@@ -1,6 +1,11 @@
 #summary swffit release notes
+#labels Featured
 
 = swffit release notes =
+
+== swffit 2.3.1 (08/05/2009) ==
+
+  * fixed conflict between swffit and FF3.5
 
 == swffit 2.3 (06/15/2009) ==
 
