@@ -1,0 +1,18 @@
+#summary Todo list.
+#labels Phase-Requirements,Phase-Design
+
+= Introduction =
+
+This page is used to keep track of ideas for future features and optimizations. Some stuff may already been done and some may never be done... So *don't take it too serious...*
+
+== Todo ==
+  * add public methods to return window innerHeight and innerWidth.
+  * add public methods to return body scrollTop and scrollLeft.
+  * change addEventListener structure and add window.scroll Event.
+  * change way swffit sets the minimum/maximum size to a full CSS based method to improve performance but keeping current method for browsers that doesn't support min-width/max-width.
+  * only enable swffit if flash movie was embedded to avoid alternate content being displayed on the wrong position [http://groups.google.com/group/swffit/browse_thread/thread/6ce037dfcb1e1ff2]
+  * optimize source code.
+
+== Maybe ==
+
+  * add fix for flash movie files bigger than 4000px as described on [http://groups.google.com/group/swffit/browse_thread/thread/d493f159a009689/].
