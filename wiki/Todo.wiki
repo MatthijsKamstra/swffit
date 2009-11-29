@@ -6,6 +6,7 @@
 This page is used to keep track of ideas for future features and optimizations. Some stuff may already been done and some may never be done... So *don't take it too serious...*
 
 == Todo ==
+  * remove closures and listeners on `onunload` on IE to avoid memory leaks.
   * add public methods to return window `innerHeight` and `innerWidth`.
   * add public methods to return body `scrollTop` and `scrollLeft`.
   * change `addEventListener` structure and add `window.scroll` Event.
