@@ -1,22 +1,29 @@
 #summary swffit release notes
 #labels Featured
 
-= swffit release notes =
+== swffit 2.4b (01/18/2009) ==
+
+  * added new methods `getScrollTop()` and `getScrollLeft()`
+  * fixed resize issue on Safari 4.0.4 on Mac OS 10.6 (#5)
+
+== swffit 2.3.3 (11/23/2009) ==
+
+  * better window size detection
+  * fixed bug on FF3.6b that makes scrollbar appear after clicking with the right button (#4)
 
 == swffit 2.3.2 (09/11/2009) ==
 
   * small code optimizations
-  * removed `favicon` on the example files and validated the HTML's
 
 == swffit 2.3.1 (08/05/2009) ==
 
-  * fixed conflict between swffit and FF3.5
+  * fixed conflict between swffit and FF3.5 (#1)
 
 == swffit 2.3 (06/15/2009) ==
 
   * added new methods `showScrollH()` and `showScrollV()`
   * changed minimum size to optional
-  * fixed bug with swfobject (2.2) and static publishing
+  * fixed bug with swfobject 2.2 and static publishing
   * improved source code comments
   * updated the AS classes
   * some code optimizations
