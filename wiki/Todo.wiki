@@ -8,7 +8,6 @@ This page is used to keep track of ideas for future features and optimizations. 
 == Todo ==
   * remove closures and listeners on `onunload` on IE to avoid memory leaks.
   * add public methods to return window `innerHeight` and `innerWidth`.
-  * add public methods to return body `scrollTop` and `scrollLeft`.
   * change `addEventListener` structure and add `window.scroll` Event.
   * change way swffit sets the minimum/maximum size to a full CSS based method to improve performance but keeping current method for browsers that doesn't support `min-width`/`max-width`.
   * only enable swffit if flash movie was embedded to avoid alternate content being displayed on the wrong position as described on [http://groups.google.com/group/swffit/browse_thread/thread/6ce037dfcb1e1ff2].
