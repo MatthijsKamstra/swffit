@@ -18,3 +18,7 @@ This page is used to keep track of ideas for future features and optimizations. 
   * add fix for flash movie files bigger than 4000px as described on [http://groups.google.com/group/swffit/browse_thread/thread/d493f159a009689/].
   * change swffit private vars names to something more readable (ex: `_minWid` instead of `_mw`) making it easier to other people edit the source code.
   * use YUI compressor to generate deploy file with munging option enabled (obfuscate local variables).
+
+== Contribute/Fork ==
+
+If you want to contribute with swffit development or create your custom version just fork/branch/clone the swffit GIT repository: [http://github.com/millermedeiros/swffit]
