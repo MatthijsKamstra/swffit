@@ -11,13 +11,14 @@ View the [change_log] to see if the feature that you want wasn't already release
   * *improve the documentation:* split documentation, about and examples into different pages.
   * remove closures and listeners on `onunload` on IE to avoid memory leaks.
   * change way swffit sets the minimum/maximum size to a full CSS based method to improve performance but keeping current method for browsers that doesn't support `min-width`/`max-width`. _(under development)_
-  * only enable swffit if flash movie was embedded to avoid alternate content being displayed on the wrong position as described on [http://groups.google.com/group/swffit/browse_thread/thread/6ce037dfcb1e1ff2].
+  * only enable swffit if flash movie was embedded to avoid alternate content being displayed on the wrong position as described on [http://groups.google.com/group/swffit/browse_thread/thread/6ce037dfcb1e1ff2 this e-mail thread].
   * use YUI compressor to generate deploy file with munging option enabled (obfuscate local variables).
   * optimize source code. _(constantly under development)_
 
 == Maybe ==
 
-  * add fix for flash movie files bigger than 4000px as described on [http://groups.google.com/group/swffit/browse_thread/thread/d493f159a009689/].
+  * add fix for flash movie files bigger than 4000px as described on [http://groups.google.com/group/swffit/browse_thread/thread/d493f159a009689/ this e-mail thread].
+  * make swffit work without [http://code.google.com/p/swfobject/ swfobject].
 
 == Will be released on future versions ==
 
