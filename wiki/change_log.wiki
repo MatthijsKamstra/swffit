@@ -1,7 +1,7 @@
 #summary swffit release notes
 #labels Featured
 
-== swffit 2.4b (01/18/2009) ==
+== swffit 2.4b (01/18/2010) ==
 
   * added new methods `getScrollTop()` and `getScrollLeft()`
   * fixed resize issue on Safari 4.0.4 on Mac OS 10.6 ([http://code.google.com/p/swffit/issues/detail?id=5&can=1 #5])
